@@ -24,3 +24,4 @@ I’m checking the zine for grammar, layout, and better wording.
 The main goal is to make everything flow smoothly and keep the **time machine** idea clear.  
 Once it looks good, I’ll merge these edits back into the main branch.
 
+There are 3 feature branches that have been added
