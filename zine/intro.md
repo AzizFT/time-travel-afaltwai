@@ -5,3 +5,4 @@ With Git, you can go back to older versions of your code or jump to new branches
 Each commit feels like a small trip through time, and every branch is its own story.  
 Just like using a real time machine, you can fix mistakes, explore new ideas, and come back to the present with better code.
 
+Zine sees what time travel is for real life
