@@ -16,3 +16,11 @@ Some files don’t need to be tracked:
 
 This keeps the repo clean.
 
+# Editor Review
+
+This branch is for reviewing and improving the content from the author branch.  
+I’m checking the zine for grammar, layout, and better wording.  
+
+The main goal is to make everything flow smoothly and keep the **time machine** idea clear.  
+Once it looks good, I’ll merge these edits back into the main branch.
+
